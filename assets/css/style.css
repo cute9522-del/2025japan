@@ -102,3 +102,9 @@ body {
   background: none;
   font-size: 22px;
 }
+
+
+/* Top navigation text color: deep brown */
+.top-nav, .top-nav a {
+  color: #4b3621;
+}
